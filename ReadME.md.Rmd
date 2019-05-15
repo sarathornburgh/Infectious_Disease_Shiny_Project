@@ -1,0 +1,21 @@
+---
+title: "Infectious Disease Model in R- Shiny"
+author: "Irving Angeles and Kyro Grace"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Infectious Disease Model
+
+#### Purpose
+Our program will allow the user to simulate what occurs via an infectious disease model. The user will be able to control three variables that all play a factor in the infectious disease model. These three variables are susceptibility, infection, and recovery. The user will be able to change these variables by moving sliders on a website that will then correspond to a graph that shows what is happening in the disease model as the parameters are being changed.
+
+#### Do I have to install any programs?
+The programmer will need R, the shiny package in R, and an internet connection to view the website that will contain the output of your program.
+
+#### Example of how to use the program 
+
+
