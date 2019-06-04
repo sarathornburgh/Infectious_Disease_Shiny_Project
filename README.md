@@ -52,7 +52,7 @@ output: html_document
         a. deSolve is a pakcage that allows you to solve differential equations that might be in your model. 
 
 # How to Run Program
-
+   [Infectious Disease Model Shiny App](https://irv-irv.shinyapps.io/Infectious_Disease_Model/)
     
 # Expected Output
   - As the user changes the different parameters, the graph on the right will change. 
